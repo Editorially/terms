@@ -1,0 +1,4 @@
+terms
+=====
+
+Terms of service
